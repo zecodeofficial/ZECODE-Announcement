@@ -1,0 +1,5 @@
+{
+  "name": "Vani - AI Text to Speech",
+  "description": "Convert text to speech with a specific Indian female college student persona using Gemini's advanced audio capabilities.",
+  "requestFramePermissions": []
+}
